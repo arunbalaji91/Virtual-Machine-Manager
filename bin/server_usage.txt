@@ -1,0 +1,584 @@
+server_usage.txt                                asivak01@syr.edu
+----------------------------------------------------------------
+
+
+Sample time range: Wed Mar 11 14:30:00 EDT 2015 - Wed Mar 11 14:45:00 EDT 2015, read every 300 seconds
+CPU usage as a percentage during the interval - Instance: timestamp: Wed Mar 11 14:30:00 EDT 2015	value: 130
+timestamp: Wed Mar 11 14:35:00 EDT 2015	value: 120
+timestamp: Wed Mar 11 14:40:00 EDT 2015	value: 166
+timestamp: Wed Mar 11 14:45:00 EDT 2015	value: 220
+Sample time range: Wed Mar 11 14:30:00 EDT 2015 - Wed Mar 11 14:45:00 EDT 2015, read every 300 seconds
+Memory usage as percentage of total configured or available memory - Instance: timestamp: Wed Mar 11 14:30:00 EDT 2015	value: 3161
+timestamp: Wed Mar 11 14:35:00 EDT 2015	value: 2929
+timestamp: Wed Mar 11 14:40:00 EDT 2015	value: 2831
+timestamp: Wed Mar 11 14:45:00 EDT 2015	value: 3238
+Sample time range: Wed Mar 11 14:30:00 EDT 2015 - Wed Mar 11 14:45:00 EDT 2015, read every 300 seconds
+CPU usage as a percentage during the interval - Instance: timestamp: Wed Mar 11 14:30:00 EDT 2015	value: 130
+timestamp: Wed Mar 11 14:35:00 EDT 2015	value: 120
+timestamp: Wed Mar 11 14:40:00 EDT 2015	value: 166
+timestamp: Wed Mar 11 14:45:00 EDT 2015	value: 220
+Sample time range: Wed Mar 11 14:30:00 EDT 2015 - Wed Mar 11 14:45:00 EDT 2015, read every 300 seconds
+Memory usage as percentage of total configured or available memory - Instance: timestamp: Wed Mar 11 14:30:00 EDT 2015	value: 3161
+timestamp: Wed Mar 11 14:35:00 EDT 2015	value: 2929
+timestamp: Wed Mar 11 14:40:00 EDT 2015	value: 2831
+timestamp: Wed Mar 11 14:45:00 EDT 2015	value: 3238
+Sample time range: Wed Mar 11 14:30:00 EDT 2015 - Wed Mar 11 14:45:00 EDT 2015, read every 300 seconds
+CPU usage as a percentage during the interval - Instance: timestamp: Wed Mar 11 14:30:00 EDT 2015	value: 130
+timestamp: Wed Mar 11 14:35:00 EDT 2015	value: 120
+timestamp: Wed Mar 11 14:40:00 EDT 2015	value: 166
+timestamp: Wed Mar 11 14:45:00 EDT 2015	value: 220
+Sample time range: Wed Mar 11 14:30:00 EDT 2015 - Wed Mar 11 14:45:00 EDT 2015, read every 300 seconds
+Memory usage as percentage of total configured or available memory - Instance: timestamp: Wed Mar 11 14:30:00 EDT 2015	value: 3161
+timestamp: Wed Mar 11 14:35:00 EDT 2015	value: 2929
+timestamp: Wed Mar 11 14:40:00 EDT 2015	value: 2831
+timestamp: Wed Mar 11 14:45:00 EDT 2015	value: 3238
+Sample time range: Wed Mar 11 14:30:00 EDT 2015 - Wed Mar 11 14:45:00 EDT 2015, read every 300 seconds
+CPU usage as a percentage during the interval - Instance: timestamp: Wed Mar 11 14:30:00 EDT 2015	value: 130
+timestamp: Wed Mar 11 14:35:00 EDT 2015	value: 120
+timestamp: Wed Mar 11 14:40:00 EDT 2015	value: 166
+timestamp: Wed Mar 11 14:45:00 EDT 2015	value: 220
+Sample time range: Wed Mar 11 14:30:00 EDT 2015 - Wed Mar 11 14:45:00 EDT 2015, read every 300 seconds
+Memory usage as percentage of total configured or available memory - Instance: timestamp: Wed Mar 11 14:30:00 EDT 2015	value: 3161
+timestamp: Wed Mar 11 14:35:00 EDT 2015	value: 2929
+timestamp: Wed Mar 11 14:40:00 EDT 2015	value: 2831
+timestamp: Wed Mar 11 14:45:00 EDT 2015	value: 3238
+Sample time range: Wed Mar 11 14:30:00 EDT 2015 - Wed Mar 11 14:45:00 EDT 2015, read every 300 seconds
+CPU usage as a percentage during the interval - Instance: timestamp: Wed Mar 11 14:30:00 EDT 2015	value: 130
+timestamp: Wed Mar 11 14:35:00 EDT 2015	value: 120
+timestamp: Wed Mar 11 14:40:00 EDT 2015	value: 166
+timestamp: Wed Mar 11 14:45:00 EDT 2015	value: 220
+Sample time range: Wed Mar 11 14:30:00 EDT 2015 - Wed Mar 11 14:45:00 EDT 2015, read every 300 seconds
+Memory usage as percentage of total configured or available memory - Instance: timestamp: Wed Mar 11 14:30:00 EDT 2015	value: 3161
+timestamp: Wed Mar 11 14:35:00 EDT 2015	value: 2929
+timestamp: Wed Mar 11 14:40:00 EDT 2015	value: 2831
+timestamp: Wed Mar 11 14:45:00 EDT 2015	value: 3238
+Sample time range: Wed Mar 11 14:30:00 EDT 2015 - Wed Mar 11 14:45:00 EDT 2015, read every 300 seconds
+CPU usage as a percentage during the interval - Instance: timestamp: Wed Mar 11 14:30:00 EDT 2015	value: 130
+timestamp: Wed Mar 11 14:35:00 EDT 2015	value: 120
+timestamp: Wed Mar 11 14:40:00 EDT 2015	value: 166
+timestamp: Wed Mar 11 14:45:00 EDT 2015	value: 220
+Sample time range: Wed Mar 11 14:30:00 EDT 2015 - Wed Mar 11 14:45:00 EDT 2015, read every 300 seconds
+Memory usage as percentage of total configured or available memory - Instance: timestamp: Wed Mar 11 14:30:00 EDT 2015	value: 3161
+timestamp: Wed Mar 11 14:35:00 EDT 2015	value: 2929
+timestamp: Wed Mar 11 14:40:00 EDT 2015	value: 2831
+timestamp: Wed Mar 11 14:45:00 EDT 2015	value: 3238
+Sample time range: Wed Mar 11 14:30:00 EDT 2015 - Wed Mar 11 14:45:00 EDT 2015, read every 300 seconds
+CPU usage as a percentage during the interval - Instance: timestamp: Wed Mar 11 14:30:00 EDT 2015	value: 130
+timestamp: Wed Mar 11 14:35:00 EDT 2015	value: 120
+timestamp: Wed Mar 11 14:40:00 EDT 2015	value: 166
+timestamp: Wed Mar 11 14:45:00 EDT 2015	value: 220
+Sample time range: Wed Mar 11 14:30:00 EDT 2015 - Wed Mar 11 14:45:00 EDT 2015, read every 300 seconds
+Memory usage as percentage of total configured or available memory - Instance: timestamp: Wed Mar 11 14:30:00 EDT 2015	value: 3161
+timestamp: Wed Mar 11 14:35:00 EDT 2015	value: 2929
+timestamp: Wed Mar 11 14:40:00 EDT 2015	value: 2831
+timestamp: Wed Mar 11 14:45:00 EDT 2015	value: 3238
+Sample time range: Wed Mar 11 14:30:00 EDT 2015 - Wed Mar 11 14:45:00 EDT 2015, read every 300 seconds
+CPU usage as a percentage during the interval - Instance: timestamp: Wed Mar 11 14:30:00 EDT 2015	value: 130
+timestamp: Wed Mar 11 14:35:00 EDT 2015	value: 120
+timestamp: Wed Mar 11 14:40:00 EDT 2015	value: 166
+timestamp: Wed Mar 11 14:45:00 EDT 2015	value: 220
+Sample time range: Wed Mar 11 14:30:00 EDT 2015 - Wed Mar 11 14:45:00 EDT 2015, read every 300 seconds
+Memory usage as percentage of total configured or available memory - Instance: timestamp: Wed Mar 11 14:30:00 EDT 2015	value: 3161
+timestamp: Wed Mar 11 14:35:00 EDT 2015	value: 2929
+timestamp: Wed Mar 11 14:40:00 EDT 2015	value: 2831
+timestamp: Wed Mar 11 14:45:00 EDT 2015	value: 3238
+Sample time range: Wed Mar 11 14:30:00 EDT 2015 - Wed Mar 11 14:45:00 EDT 2015, read every 300 seconds
+CPU usage as a percentage during the interval - Instance: timestamp: Wed Mar 11 14:30:00 EDT 2015	value: 130
+timestamp: Wed Mar 11 14:35:00 EDT 2015	value: 120
+timestamp: Wed Mar 11 14:40:00 EDT 2015	value: 166
+timestamp: Wed Mar 11 14:45:00 EDT 2015	value: 220
+Sample time range: Wed Mar 11 14:30:00 EDT 2015 - Wed Mar 11 14:45:00 EDT 2015, read every 300 seconds
+Memory usage as percentage of total configured or available memory - Instance: timestamp: Wed Mar 11 14:30:00 EDT 2015	value: 3161
+timestamp: Wed Mar 11 14:35:00 EDT 2015	value: 2929
+timestamp: Wed Mar 11 14:40:00 EDT 2015	value: 2831
+timestamp: Wed Mar 11 14:45:00 EDT 2015	value: 3238
+Sample time range: Wed Mar 11 14:30:00 EDT 2015 - Wed Mar 11 14:45:00 EDT 2015, read every 300 seconds
+CPU usage as a percentage during the interval - Instance: timestamp: Wed Mar 11 14:30:00 EDT 2015	value: 130
+timestamp: Wed Mar 11 14:35:00 EDT 2015	value: 120
+timestamp: Wed Mar 11 14:40:00 EDT 2015	value: 166
+timestamp: Wed Mar 11 14:45:00 EDT 2015	value: 220
+Sample time range: Wed Mar 11 14:30:00 EDT 2015 - Wed Mar 11 14:45:00 EDT 2015, read every 300 seconds
+Memory usage as percentage of total configured or available memory - Instance: timestamp: Wed Mar 11 14:30:00 EDT 2015	value: 3161
+timestamp: Wed Mar 11 14:35:00 EDT 2015	value: 2929
+timestamp: Wed Mar 11 14:40:00 EDT 2015	value: 2831
+timestamp: Wed Mar 11 14:45:00 EDT 2015	value: 3238
+Sample time range: Wed Mar 11 14:30:00 EDT 2015 - Wed Mar 11 14:45:00 EDT 2015, read every 300 seconds
+CPU usage as a percentage during the interval - Instance: timestamp: Wed Mar 11 14:30:00 EDT 2015	value: 130
+timestamp: Wed Mar 11 14:35:00 EDT 2015	value: 120
+timestamp: Wed Mar 11 14:40:00 EDT 2015	value: 166
+timestamp: Wed Mar 11 14:45:00 EDT 2015	value: 220
+Sample time range: Wed Mar 11 14:30:00 EDT 2015 - Wed Mar 11 14:45:00 EDT 2015, read every 300 seconds
+Memory usage as percentage of total configured or available memory - Instance: timestamp: Wed Mar 11 14:30:00 EDT 2015	value: 3161
+timestamp: Wed Mar 11 14:35:00 EDT 2015	value: 2929
+timestamp: Wed Mar 11 14:40:00 EDT 2015	value: 2831
+timestamp: Wed Mar 11 14:45:00 EDT 2015	value: 3238
+Sample time range: Wed Mar 11 14:30:00 EDT 2015 - Wed Mar 11 14:45:00 EDT 2015, read every 300 seconds
+CPU usage as a percentage during the interval - Instance: timestamp: Wed Mar 11 14:30:00 EDT 2015	value: 130
+timestamp: Wed Mar 11 14:35:00 EDT 2015	value: 120
+timestamp: Wed Mar 11 14:40:00 EDT 2015	value: 166
+timestamp: Wed Mar 11 14:45:00 EDT 2015	value: 220
+Sample time range: Wed Mar 11 14:30:00 EDT 2015 - Wed Mar 11 14:45:00 EDT 2015, read every 300 seconds
+Memory usage as percentage of total configured or available memory - Instance: timestamp: Wed Mar 11 14:30:00 EDT 2015	value: 3161
+timestamp: Wed Mar 11 14:35:00 EDT 2015	value: 2929
+timestamp: Wed Mar 11 14:40:00 EDT 2015	value: 2831
+timestamp: Wed Mar 11 14:45:00 EDT 2015	value: 3238
+Sample time range: Wed Mar 11 14:30:00 EDT 2015 - Wed Mar 11 14:45:00 EDT 2015, read every 300 seconds
+CPU usage as a percentage during the interval - Instance: timestamp: Wed Mar 11 14:30:00 EDT 2015	value: 130
+timestamp: Wed Mar 11 14:35:00 EDT 2015	value: 120
+timestamp: Wed Mar 11 14:40:00 EDT 2015	value: 166
+timestamp: Wed Mar 11 14:45:00 EDT 2015	value: 220
+Sample time range: Wed Mar 11 14:30:00 EDT 2015 - Wed Mar 11 14:45:00 EDT 2015, read every 300 seconds
+Memory usage as percentage of total configured or available memory - Instance: timestamp: Wed Mar 11 14:30:00 EDT 2015	value: 3161
+timestamp: Wed Mar 11 14:35:00 EDT 2015	value: 2929
+timestamp: Wed Mar 11 14:40:00 EDT 2015	value: 2831
+timestamp: Wed Mar 11 14:45:00 EDT 2015	value: 3238
+Sample time range: Wed Mar 11 14:30:00 EDT 2015 - Wed Mar 11 14:45:00 EDT 2015, read every 300 seconds
+CPU usage as a percentage during the interval - Instance: timestamp: Wed Mar 11 14:30:00 EDT 2015	value: 130
+timestamp: Wed Mar 11 14:35:00 EDT 2015	value: 120
+timestamp: Wed Mar 11 14:40:00 EDT 2015	value: 166
+timestamp: Wed Mar 11 14:45:00 EDT 2015	value: 220
+Sample time range: Wed Mar 11 14:30:00 EDT 2015 - Wed Mar 11 14:45:00 EDT 2015, read every 300 seconds
+Memory usage as percentage of total configured or available memory - Instance: timestamp: Wed Mar 11 14:30:00 EDT 2015	value: 3161
+timestamp: Wed Mar 11 14:35:00 EDT 2015	value: 2929
+timestamp: Wed Mar 11 14:40:00 EDT 2015	value: 2831
+timestamp: Wed Mar 11 14:45:00 EDT 2015	value: 3238
+Sample time range: Wed Mar 11 14:30:00 EDT 2015 - Wed Mar 11 14:45:00 EDT 2015, read every 300 seconds
+CPU usage as a percentage during the interval - Instance: timestamp: Wed Mar 11 14:30:00 EDT 2015	value: 130
+timestamp: Wed Mar 11 14:35:00 EDT 2015	value: 120
+timestamp: Wed Mar 11 14:40:00 EDT 2015	value: 166
+timestamp: Wed Mar 11 14:45:00 EDT 2015	value: 220
+Sample time range: Wed Mar 11 14:30:00 EDT 2015 - Wed Mar 11 14:45:00 EDT 2015, read every 300 seconds
+Memory usage as percentage of total configured or available memory - Instance: timestamp: Wed Mar 11 14:30:00 EDT 2015	value: 3161
+timestamp: Wed Mar 11 14:35:00 EDT 2015	value: 2929
+timestamp: Wed Mar 11 14:40:00 EDT 2015	value: 2831
+timestamp: Wed Mar 11 14:45:00 EDT 2015	value: 3238
+Sample time range: Wed Mar 11 14:30:00 EDT 2015 - Wed Mar 11 14:45:00 EDT 2015, read every 300 seconds
+CPU usage as a percentage during the interval - Instance: timestamp: Wed Mar 11 14:30:00 EDT 2015	value: 130
+timestamp: Wed Mar 11 14:35:00 EDT 2015	value: 120
+timestamp: Wed Mar 11 14:40:00 EDT 2015	value: 166
+timestamp: Wed Mar 11 14:45:00 EDT 2015	value: 220
+Sample time range: Wed Mar 11 14:30:00 EDT 2015 - Wed Mar 11 14:45:00 EDT 2015, read every 300 seconds
+Memory usage as percentage of total configured or available memory - Instance: timestamp: Wed Mar 11 14:30:00 EDT 2015	value: 3161
+timestamp: Wed Mar 11 14:35:00 EDT 2015	value: 2929
+timestamp: Wed Mar 11 14:40:00 EDT 2015	value: 2831
+timestamp: Wed Mar 11 14:45:00 EDT 2015	value: 3238
+Sample time range: Wed Mar 11 14:30:00 EDT 2015 - Wed Mar 11 14:45:00 EDT 2015, read every 300 seconds
+CPU usage as a percentage during the interval - Instance: timestamp: Wed Mar 11 14:30:00 EDT 2015	value: 130
+timestamp: Wed Mar 11 14:35:00 EDT 2015	value: 120
+timestamp: Wed Mar 11 14:40:00 EDT 2015	value: 166
+timestamp: Wed Mar 11 14:45:00 EDT 2015	value: 220
+Sample time range: Wed Mar 11 14:30:00 EDT 2015 - Wed Mar 11 14:45:00 EDT 2015, read every 300 seconds
+Memory usage as percentage of total configured or available memory - Instance: timestamp: Wed Mar 11 14:30:00 EDT 2015	value: 3161
+timestamp: Wed Mar 11 14:35:00 EDT 2015	value: 2929
+timestamp: Wed Mar 11 14:40:00 EDT 2015	value: 2831
+timestamp: Wed Mar 11 14:45:00 EDT 2015	value: 3238
+Sample time range: Wed Mar 11 14:30:00 EDT 2015 - Wed Mar 11 14:45:00 EDT 2015, read every 300 seconds
+CPU usage as a percentage during the interval - Instance: timestamp: Wed Mar 11 14:30:00 EDT 2015	value: 130
+timestamp: Wed Mar 11 14:35:00 EDT 2015	value: 120
+timestamp: Wed Mar 11 14:40:00 EDT 2015	value: 166
+timestamp: Wed Mar 11 14:45:00 EDT 2015	value: 220
+Sample time range: Wed Mar 11 14:30:00 EDT 2015 - Wed Mar 11 14:45:00 EDT 2015, read every 300 seconds
+Memory usage as percentage of total configured or available memory - Instance: timestamp: Wed Mar 11 14:30:00 EDT 2015	value: 3161
+timestamp: Wed Mar 11 14:35:00 EDT 2015	value: 2929
+timestamp: Wed Mar 11 14:40:00 EDT 2015	value: 2831
+timestamp: Wed Mar 11 14:45:00 EDT 2015	value: 3238
+Sample time range: Wed Mar 11 14:30:00 EDT 2015 - Wed Mar 11 14:45:00 EDT 2015, read every 300 seconds
+CPU usage as a percentage during the interval - Instance: timestamp: Wed Mar 11 14:30:00 EDT 2015	value: 130
+timestamp: Wed Mar 11 14:35:00 EDT 2015	value: 120
+timestamp: Wed Mar 11 14:40:00 EDT 2015	value: 166
+timestamp: Wed Mar 11 14:45:00 EDT 2015	value: 220
+Sample time range: Wed Mar 11 14:30:00 EDT 2015 - Wed Mar 11 14:45:00 EDT 2015, read every 300 seconds
+Memory usage as percentage of total configured or available memory - Instance: timestamp: Wed Mar 11 14:30:00 EDT 2015	value: 3161
+timestamp: Wed Mar 11 14:35:00 EDT 2015	value: 2929
+timestamp: Wed Mar 11 14:40:00 EDT 2015	value: 2831
+timestamp: Wed Mar 11 14:45:00 EDT 2015	value: 3238
+Sample time range: Wed Mar 11 14:30:00 EDT 2015 - Wed Mar 11 14:45:00 EDT 2015, read every 300 seconds
+CPU usage as a percentage during the interval - Instance: timestamp: Wed Mar 11 14:30:00 EDT 2015	value: 130
+timestamp: Wed Mar 11 14:35:00 EDT 2015	value: 120
+timestamp: Wed Mar 11 14:40:00 EDT 2015	value: 166
+timestamp: Wed Mar 11 14:45:00 EDT 2015	value: 220
+Sample time range: Wed Mar 11 14:30:00 EDT 2015 - Wed Mar 11 14:45:00 EDT 2015, read every 300 seconds
+Memory usage as percentage of total configured or available memory - Instance: timestamp: Wed Mar 11 14:30:00 EDT 2015	value: 3161
+timestamp: Wed Mar 11 14:35:00 EDT 2015	value: 2929
+timestamp: Wed Mar 11 14:40:00 EDT 2015	value: 2831
+timestamp: Wed Mar 11 14:45:00 EDT 2015	value: 3238
+Sample time range: Wed Mar 11 14:30:00 EDT 2015 - Wed Mar 11 14:45:00 EDT 2015, read every 300 seconds
+CPU usage as a percentage during the interval - Instance: timestamp: Wed Mar 11 14:30:00 EDT 2015	value: 130
+timestamp: Wed Mar 11 14:35:00 EDT 2015	value: 120
+timestamp: Wed Mar 11 14:40:00 EDT 2015	value: 166
+timestamp: Wed Mar 11 14:45:00 EDT 2015	value: 220
+Sample time range: Wed Mar 11 14:30:00 EDT 2015 - Wed Mar 11 14:45:00 EDT 2015, read every 300 seconds
+Memory usage as percentage of total configured or available memory - Instance: timestamp: Wed Mar 11 14:30:00 EDT 2015	value: 3161
+timestamp: Wed Mar 11 14:35:00 EDT 2015	value: 2929
+timestamp: Wed Mar 11 14:40:00 EDT 2015	value: 2831
+timestamp: Wed Mar 11 14:45:00 EDT 2015	value: 3238
+Sample time range: Wed Mar 11 14:30:00 EDT 2015 - Wed Mar 11 14:45:00 EDT 2015, read every 300 seconds
+CPU usage as a percentage during the interval - Instance: timestamp: Wed Mar 11 14:30:00 EDT 2015	value: 130
+timestamp: Wed Mar 11 14:35:00 EDT 2015	value: 120
+timestamp: Wed Mar 11 14:40:00 EDT 2015	value: 166
+timestamp: Wed Mar 11 14:45:00 EDT 2015	value: 220
+Sample time range: Wed Mar 11 14:30:00 EDT 2015 - Wed Mar 11 14:45:00 EDT 2015, read every 300 seconds
+Memory usage as percentage of total configured or available memory - Instance: timestamp: Wed Mar 11 14:30:00 EDT 2015	value: 3161
+timestamp: Wed Mar 11 14:35:00 EDT 2015	value: 2929
+timestamp: Wed Mar 11 14:40:00 EDT 2015	value: 2831
+timestamp: Wed Mar 11 14:45:00 EDT 2015	value: 3238
+Sample time range: Wed Mar 11 14:30:00 EDT 2015 - Wed Mar 11 14:45:00 EDT 2015, read every 300 seconds
+CPU usage as a percentage during the interval - Instance: timestamp: Wed Mar 11 14:30:00 EDT 2015	value: 130
+timestamp: Wed Mar 11 14:35:00 EDT 2015	value: 120
+timestamp: Wed Mar 11 14:40:00 EDT 2015	value: 166
+timestamp: Wed Mar 11 14:45:00 EDT 2015	value: 220
+Sample time range: Wed Mar 11 14:30:00 EDT 2015 - Wed Mar 11 14:45:00 EDT 2015, read every 300 seconds
+Memory usage as percentage of total configured or available memory - Instance: timestamp: Wed Mar 11 14:30:00 EDT 2015	value: 3161
+timestamp: Wed Mar 11 14:35:00 EDT 2015	value: 2929
+timestamp: Wed Mar 11 14:40:00 EDT 2015	value: 2831
+timestamp: Wed Mar 11 14:45:00 EDT 2015	value: 3238
+Sample time range: Wed Mar 11 14:30:00 EDT 2015 - Wed Mar 11 14:45:00 EDT 2015, read every 300 seconds
+CPU usage as a percentage during the interval - Instance: timestamp: Wed Mar 11 14:30:00 EDT 2015	value: 130
+timestamp: Wed Mar 11 14:35:00 EDT 2015	value: 120
+timestamp: Wed Mar 11 14:40:00 EDT 2015	value: 166
+timestamp: Wed Mar 11 14:45:00 EDT 2015	value: 220
+Sample time range: Wed Mar 11 14:30:00 EDT 2015 - Wed Mar 11 14:45:00 EDT 2015, read every 300 seconds
+Memory usage as percentage of total configured or available memory - Instance: timestamp: Wed Mar 11 14:30:00 EDT 2015	value: 3161
+timestamp: Wed Mar 11 14:35:00 EDT 2015	value: 2929
+timestamp: Wed Mar 11 14:40:00 EDT 2015	value: 2831
+timestamp: Wed Mar 11 14:45:00 EDT 2015	value: 3238
+Sample time range: Wed Mar 11 14:30:00 EDT 2015 - Wed Mar 11 14:45:00 EDT 2015, read every 300 seconds
+CPU usage as a percentage during the interval - Instance: timestamp: Wed Mar 11 14:30:00 EDT 2015	value: 130
+timestamp: Wed Mar 11 14:35:00 EDT 2015	value: 120
+timestamp: Wed Mar 11 14:40:00 EDT 2015	value: 166
+timestamp: Wed Mar 11 14:45:00 EDT 2015	value: 220
+Sample time range: Wed Mar 11 14:30:00 EDT 2015 - Wed Mar 11 14:45:00 EDT 2015, read every 300 seconds
+Memory usage as percentage of total configured or available memory - Instance: timestamp: Wed Mar 11 14:30:00 EDT 2015	value: 3161
+timestamp: Wed Mar 11 14:35:00 EDT 2015	value: 2929
+timestamp: Wed Mar 11 14:40:00 EDT 2015	value: 2831
+timestamp: Wed Mar 11 14:45:00 EDT 2015	value: 3238
+Sample time range: Wed Mar 11 14:30:00 EDT 2015 - Wed Mar 11 14:45:00 EDT 2015, read every 300 seconds
+CPU usage as a percentage during the interval - Instance: timestamp: Wed Mar 11 14:30:00 EDT 2015	value: 130
+timestamp: Wed Mar 11 14:35:00 EDT 2015	value: 120
+timestamp: Wed Mar 11 14:40:00 EDT 2015	value: 166
+timestamp: Wed Mar 11 14:45:00 EDT 2015	value: 220
+Sample time range: Wed Mar 11 14:30:00 EDT 2015 - Wed Mar 11 14:45:00 EDT 2015, read every 300 seconds
+Memory usage as percentage of total configured or available memory - Instance: timestamp: Wed Mar 11 14:30:00 EDT 2015	value: 3161
+timestamp: Wed Mar 11 14:35:00 EDT 2015	value: 2929
+timestamp: Wed Mar 11 14:40:00 EDT 2015	value: 2831
+timestamp: Wed Mar 11 14:45:00 EDT 2015	value: 3238
+Sample time range: Wed Mar 11 14:30:00 EDT 2015 - Wed Mar 11 14:45:00 EDT 2015, read every 300 seconds
+CPU usage as a percentage during the interval - Instance: timestamp: Wed Mar 11 14:30:00 EDT 2015	value: 130
+timestamp: Wed Mar 11 14:35:00 EDT 2015	value: 120
+timestamp: Wed Mar 11 14:40:00 EDT 2015	value: 166
+timestamp: Wed Mar 11 14:45:00 EDT 2015	value: 220
+Sample time range: Wed Mar 11 14:30:00 EDT 2015 - Wed Mar 11 14:45:00 EDT 2015, read every 300 seconds
+Memory usage as percentage of total configured or available memory - Instance: timestamp: Wed Mar 11 14:30:00 EDT 2015	value: 3161
+timestamp: Wed Mar 11 14:35:00 EDT 2015	value: 2929
+timestamp: Wed Mar 11 14:40:00 EDT 2015	value: 2831
+timestamp: Wed Mar 11 14:45:00 EDT 2015	value: 3238
+Sample time range: Wed Mar 11 14:30:00 EDT 2015 - Wed Mar 11 14:45:00 EDT 2015, read every 300 seconds
+CPU usage as a percentage during the interval - Instance: timestamp: Wed Mar 11 14:30:00 EDT 2015	value: 130
+timestamp: Wed Mar 11 14:35:00 EDT 2015	value: 120
+timestamp: Wed Mar 11 14:40:00 EDT 2015	value: 166
+timestamp: Wed Mar 11 14:45:00 EDT 2015	value: 220
+Sample time range: Wed Mar 11 14:30:00 EDT 2015 - Wed Mar 11 14:45:00 EDT 2015, read every 300 seconds
+Memory usage as percentage of total configured or available memory - Instance: timestamp: Wed Mar 11 14:30:00 EDT 2015	value: 3161
+timestamp: Wed Mar 11 14:35:00 EDT 2015	value: 2929
+timestamp: Wed Mar 11 14:40:00 EDT 2015	value: 2831
+timestamp: Wed Mar 11 14:45:00 EDT 2015	value: 3238
+Sample time range: Wed Mar 11 14:30:00 EDT 2015 - Wed Mar 11 14:45:00 EDT 2015, read every 300 seconds
+CPU usage as a percentage during the interval - Instance: timestamp: Wed Mar 11 14:30:00 EDT 2015	value: 130
+timestamp: Wed Mar 11 14:35:00 EDT 2015	value: 120
+timestamp: Wed Mar 11 14:40:00 EDT 2015	value: 166
+timestamp: Wed Mar 11 14:45:00 EDT 2015	value: 220
+Sample time range: Wed Mar 11 14:30:00 EDT 2015 - Wed Mar 11 14:45:00 EDT 2015, read every 300 seconds
+Memory usage as percentage of total configured or available memory - Instance: timestamp: Wed Mar 11 14:30:00 EDT 2015	value: 3161
+timestamp: Wed Mar 11 14:35:00 EDT 2015	value: 2929
+timestamp: Wed Mar 11 14:40:00 EDT 2015	value: 2831
+timestamp: Wed Mar 11 14:45:00 EDT 2015	value: 3238
+Sample time range: Wed Mar 11 14:30:00 EDT 2015 - Wed Mar 11 14:45:00 EDT 2015, read every 300 seconds
+CPU usage as a percentage during the interval - Instance: timestamp: Wed Mar 11 14:30:00 EDT 2015	value: 130
+timestamp: Wed Mar 11 14:35:00 EDT 2015	value: 120
+timestamp: Wed Mar 11 14:40:00 EDT 2015	value: 166
+timestamp: Wed Mar 11 14:45:00 EDT 2015	value: 220
+Sample time range: Wed Mar 11 14:30:00 EDT 2015 - Wed Mar 11 14:45:00 EDT 2015, read every 300 seconds
+Memory usage as percentage of total configured or available memory - Instance: timestamp: Wed Mar 11 14:30:00 EDT 2015	value: 3161
+timestamp: Wed Mar 11 14:35:00 EDT 2015	value: 2929
+timestamp: Wed Mar 11 14:40:00 EDT 2015	value: 2831
+timestamp: Wed Mar 11 14:45:00 EDT 2015	value: 3238
+Sample time range: Wed Mar 11 14:30:00 EDT 2015 - Wed Mar 11 14:45:00 EDT 2015, read every 300 seconds
+CPU usage as a percentage during the interval - Instance: timestamp: Wed Mar 11 14:30:00 EDT 2015	value: 130
+timestamp: Wed Mar 11 14:35:00 EDT 2015	value: 120
+timestamp: Wed Mar 11 14:40:00 EDT 2015	value: 166
+timestamp: Wed Mar 11 14:45:00 EDT 2015	value: 220
+Sample time range: Wed Mar 11 14:30:00 EDT 2015 - Wed Mar 11 14:45:00 EDT 2015, read every 300 seconds
+Memory usage as percentage of total configured or available memory - Instance: timestamp: Wed Mar 11 14:30:00 EDT 2015	value: 3161
+timestamp: Wed Mar 11 14:35:00 EDT 2015	value: 2929
+timestamp: Wed Mar 11 14:40:00 EDT 2015	value: 2831
+timestamp: Wed Mar 11 14:45:00 EDT 2015	value: 3238
+Sample time range: Wed Mar 11 14:30:00 EDT 2015 - Wed Mar 11 14:45:00 EDT 2015, read every 300 seconds
+CPU usage as a percentage during the interval - Instance: timestamp: Wed Mar 11 14:30:00 EDT 2015	value: 130
+timestamp: Wed Mar 11 14:35:00 EDT 2015	value: 120
+timestamp: Wed Mar 11 14:40:00 EDT 2015	value: 166
+timestamp: Wed Mar 11 14:45:00 EDT 2015	value: 220
+Sample time range: Wed Mar 11 14:30:00 EDT 2015 - Wed Mar 11 14:45:00 EDT 2015, read every 300 seconds
+Memory usage as percentage of total configured or available memory - Instance: timestamp: Wed Mar 11 14:30:00 EDT 2015	value: 3161
+timestamp: Wed Mar 11 14:35:00 EDT 2015	value: 2929
+timestamp: Wed Mar 11 14:40:00 EDT 2015	value: 2831
+timestamp: Wed Mar 11 14:45:00 EDT 2015	value: 3238
+Sample time range: Wed Mar 11 14:30:00 EDT 2015 - Wed Mar 11 14:45:00 EDT 2015, read every 300 seconds
+CPU usage as a percentage during the interval - Instance: timestamp: Wed Mar 11 14:30:00 EDT 2015	value: 130
+timestamp: Wed Mar 11 14:35:00 EDT 2015	value: 120
+timestamp: Wed Mar 11 14:40:00 EDT 2015	value: 166
+timestamp: Wed Mar 11 14:45:00 EDT 2015	value: 220
+Sample time range: Wed Mar 11 14:30:00 EDT 2015 - Wed Mar 11 14:45:00 EDT 2015, read every 300 seconds
+Memory usage as percentage of total configured or available memory - Instance: timestamp: Wed Mar 11 14:30:00 EDT 2015	value: 3161
+timestamp: Wed Mar 11 14:35:00 EDT 2015	value: 2929
+timestamp: Wed Mar 11 14:40:00 EDT 2015	value: 2831
+timestamp: Wed Mar 11 14:45:00 EDT 2015	value: 3238
+Sample time range: Wed Mar 11 14:30:00 EDT 2015 - Wed Mar 11 14:45:00 EDT 2015, read every 300 seconds
+CPU usage as a percentage during the interval - Instance: timestamp: Wed Mar 11 14:30:00 EDT 2015	value: 130
+timestamp: Wed Mar 11 14:35:00 EDT 2015	value: 120
+timestamp: Wed Mar 11 14:40:00 EDT 2015	value: 166
+timestamp: Wed Mar 11 14:45:00 EDT 2015	value: 220
+Sample time range: Wed Mar 11 14:30:00 EDT 2015 - Wed Mar 11 14:45:00 EDT 2015, read every 300 seconds
+Memory usage as percentage of total configured or available memory - Instance: timestamp: Wed Mar 11 14:30:00 EDT 2015	value: 3161
+timestamp: Wed Mar 11 14:35:00 EDT 2015	value: 2929
+timestamp: Wed Mar 11 14:40:00 EDT 2015	value: 2831
+timestamp: Wed Mar 11 14:45:00 EDT 2015	value: 3238
+Sample time range: Wed Mar 11 14:30:00 EDT 2015 - Wed Mar 11 14:45:00 EDT 2015, read every 300 seconds
+CPU usage as a percentage during the interval - Instance: timestamp: Wed Mar 11 14:30:00 EDT 2015	value: 130
+timestamp: Wed Mar 11 14:35:00 EDT 2015	value: 120
+timestamp: Wed Mar 11 14:40:00 EDT 2015	value: 166
+timestamp: Wed Mar 11 14:45:00 EDT 2015	value: 220
+Sample time range: Wed Mar 11 14:30:00 EDT 2015 - Wed Mar 11 14:45:00 EDT 2015, read every 300 seconds
+Memory usage as percentage of total configured or available memory - Instance: timestamp: Wed Mar 11 14:30:00 EDT 2015	value: 3161
+timestamp: Wed Mar 11 14:35:00 EDT 2015	value: 2929
+timestamp: Wed Mar 11 14:40:00 EDT 2015	value: 2831
+timestamp: Wed Mar 11 14:45:00 EDT 2015	value: 3238
+Sample time range: Wed Mar 11 14:30:00 EDT 2015 - Wed Mar 11 14:45:00 EDT 2015, read every 300 seconds
+CPU usage as a percentage during the interval - Instance: timestamp: Wed Mar 11 14:30:00 EDT 2015	value: 130
+timestamp: Wed Mar 11 14:35:00 EDT 2015	value: 120
+timestamp: Wed Mar 11 14:40:00 EDT 2015	value: 166
+timestamp: Wed Mar 11 14:45:00 EDT 2015	value: 220
+Sample time range: Wed Mar 11 14:30:00 EDT 2015 - Wed Mar 11 14:45:00 EDT 2015, read every 300 seconds
+Memory usage as percentage of total configured or available memory - Instance: timestamp: Wed Mar 11 14:30:00 EDT 2015	value: 3161
+timestamp: Wed Mar 11 14:35:00 EDT 2015	value: 2929
+timestamp: Wed Mar 11 14:40:00 EDT 2015	value: 2831
+timestamp: Wed Mar 11 14:45:00 EDT 2015	value: 3238
+Sample time range: Wed Mar 11 14:30:00 EDT 2015 - Wed Mar 11 14:45:00 EDT 2015, read every 300 seconds
+CPU usage as a percentage during the interval - Instance: timestamp: Wed Mar 11 14:30:00 EDT 2015	value: 130
+timestamp: Wed Mar 11 14:35:00 EDT 2015	value: 120
+timestamp: Wed Mar 11 14:40:00 EDT 2015	value: 166
+timestamp: Wed Mar 11 14:45:00 EDT 2015	value: 220
+Sample time range: Wed Mar 11 14:30:00 EDT 2015 - Wed Mar 11 14:45:00 EDT 2015, read every 300 seconds
+Memory usage as percentage of total configured or available memory - Instance: timestamp: Wed Mar 11 14:30:00 EDT 2015	value: 3161
+timestamp: Wed Mar 11 14:35:00 EDT 2015	value: 2929
+timestamp: Wed Mar 11 14:40:00 EDT 2015	value: 2831
+timestamp: Wed Mar 11 14:45:00 EDT 2015	value: 3238
+Sample time range: Wed Mar 11 14:30:00 EDT 2015 - Wed Mar 11 14:45:00 EDT 2015, read every 300 seconds
+CPU usage as a percentage during the interval - Instance: timestamp: Wed Mar 11 14:30:00 EDT 2015	value: 130
+timestamp: Wed Mar 11 14:35:00 EDT 2015	value: 120
+timestamp: Wed Mar 11 14:40:00 EDT 2015	value: 166
+timestamp: Wed Mar 11 14:45:00 EDT 2015	value: 220
+Sample time range: Wed Mar 11 14:30:00 EDT 2015 - Wed Mar 11 14:45:00 EDT 2015, read every 300 seconds
+Memory usage as percentage of total configured or available memory - Instance: timestamp: Wed Mar 11 14:30:00 EDT 2015	value: 3161
+timestamp: Wed Mar 11 14:35:00 EDT 2015	value: 2929
+timestamp: Wed Mar 11 14:40:00 EDT 2015	value: 2831
+timestamp: Wed Mar 11 14:45:00 EDT 2015	value: 3238
+Sample time range: Wed Mar 11 14:30:00 EDT 2015 - Wed Mar 11 14:45:00 EDT 2015, read every 300 seconds
+CPU usage as a percentage during the interval - Instance: timestamp: Wed Mar 11 14:30:00 EDT 2015	value: 130
+timestamp: Wed Mar 11 14:35:00 EDT 2015	value: 120
+timestamp: Wed Mar 11 14:40:00 EDT 2015	value: 166
+timestamp: Wed Mar 11 14:45:00 EDT 2015	value: 220
+Sample time range: Wed Mar 11 14:30:00 EDT 2015 - Wed Mar 11 14:45:00 EDT 2015, read every 300 seconds
+Memory usage as percentage of total configured or available memory - Instance: timestamp: Wed Mar 11 14:30:00 EDT 2015	value: 3161
+timestamp: Wed Mar 11 14:35:00 EDT 2015	value: 2929
+timestamp: Wed Mar 11 14:40:00 EDT 2015	value: 2831
+timestamp: Wed Mar 11 14:45:00 EDT 2015	value: 3238
+Sample time range: Wed Mar 11 14:30:00 EDT 2015 - Wed Mar 11 14:45:00 EDT 2015, read every 300 seconds
+CPU usage as a percentage during the interval - Instance: timestamp: Wed Mar 11 14:30:00 EDT 2015	value: 130
+timestamp: Wed Mar 11 14:35:00 EDT 2015	value: 120
+timestamp: Wed Mar 11 14:40:00 EDT 2015	value: 166
+timestamp: Wed Mar 11 14:45:00 EDT 2015	value: 220
+Sample time range: Wed Mar 11 14:30:00 EDT 2015 - Wed Mar 11 14:45:00 EDT 2015, read every 300 seconds
+Memory usage as percentage of total configured or available memory - Instance: timestamp: Wed Mar 11 14:30:00 EDT 2015	value: 3161
+timestamp: Wed Mar 11 14:35:00 EDT 2015	value: 2929
+timestamp: Wed Mar 11 14:40:00 EDT 2015	value: 2831
+timestamp: Wed Mar 11 14:45:00 EDT 2015	value: 3238
+Sample time range: Wed Mar 11 14:30:00 EDT 2015 - Wed Mar 11 14:45:00 EDT 2015, read every 300 seconds
+CPU usage as a percentage during the interval - Instance: timestamp: Wed Mar 11 14:30:00 EDT 2015	value: 130
+timestamp: Wed Mar 11 14:35:00 EDT 2015	value: 120
+timestamp: Wed Mar 11 14:40:00 EDT 2015	value: 166
+timestamp: Wed Mar 11 14:45:00 EDT 2015	value: 220
+Sample time range: Wed Mar 11 14:30:00 EDT 2015 - Wed Mar 11 14:45:00 EDT 2015, read every 300 seconds
+Memory usage as percentage of total configured or available memory - Instance: timestamp: Wed Mar 11 14:30:00 EDT 2015	value: 3161
+timestamp: Wed Mar 11 14:35:00 EDT 2015	value: 2929
+timestamp: Wed Mar 11 14:40:00 EDT 2015	value: 2831
+timestamp: Wed Mar 11 14:45:00 EDT 2015	value: 3238
+Sample time range: Wed Mar 11 14:30:00 EDT 2015 - Wed Mar 11 14:45:00 EDT 2015, read every 300 seconds
+CPU usage as a percentage during the interval - Instance: timestamp: Wed Mar 11 14:30:00 EDT 2015	value: 130
+timestamp: Wed Mar 11 14:35:00 EDT 2015	value: 120
+timestamp: Wed Mar 11 14:40:00 EDT 2015	value: 166
+timestamp: Wed Mar 11 14:45:00 EDT 2015	value: 220
+Sample time range: Wed Mar 11 14:30:00 EDT 2015 - Wed Mar 11 14:45:00 EDT 2015, read every 300 seconds
+Memory usage as percentage of total configured or available memory - Instance: timestamp: Wed Mar 11 14:30:00 EDT 2015	value: 3161
+timestamp: Wed Mar 11 14:35:00 EDT 2015	value: 2929
+timestamp: Wed Mar 11 14:40:00 EDT 2015	value: 2831
+timestamp: Wed Mar 11 14:45:00 EDT 2015	value: 3238
+Sample time range: Wed Mar 11 14:30:00 EDT 2015 - Wed Mar 11 14:45:00 EDT 2015, read every 300 seconds
+CPU usage as a percentage during the interval - Instance: timestamp: Wed Mar 11 14:30:00 EDT 2015	value: 130
+timestamp: Wed Mar 11 14:35:00 EDT 2015	value: 120
+timestamp: Wed Mar 11 14:40:00 EDT 2015	value: 166
+timestamp: Wed Mar 11 14:45:00 EDT 2015	value: 220
+Sample time range: Wed Mar 11 14:30:00 EDT 2015 - Wed Mar 11 14:45:00 EDT 2015, read every 300 seconds
+Memory usage as percentage of total configured or available memory - Instance: timestamp: Wed Mar 11 14:30:00 EDT 2015	value: 3161
+timestamp: Wed Mar 11 14:35:00 EDT 2015	value: 2929
+timestamp: Wed Mar 11 14:40:00 EDT 2015	value: 2831
+timestamp: Wed Mar 11 14:45:00 EDT 2015	value: 3238
+Sample time range: Wed Mar 11 14:30:00 EDT 2015 - Wed Mar 11 14:45:00 EDT 2015, read every 300 seconds
+CPU usage as a percentage during the interval - Instance: timestamp: Wed Mar 11 14:30:00 EDT 2015	value: 130
+timestamp: Wed Mar 11 14:35:00 EDT 2015	value: 120
+timestamp: Wed Mar 11 14:40:00 EDT 2015	value: 166
+timestamp: Wed Mar 11 14:45:00 EDT 2015	value: 220
+Sample time range: Wed Mar 11 14:30:00 EDT 2015 - Wed Mar 11 14:45:00 EDT 2015, read every 300 seconds
+Memory usage as percentage of total configured or available memory - Instance: timestamp: Wed Mar 11 14:30:00 EDT 2015	value: 3161
+timestamp: Wed Mar 11 14:35:00 EDT 2015	value: 2929
+timestamp: Wed Mar 11 14:40:00 EDT 2015	value: 2831
+timestamp: Wed Mar 11 14:45:00 EDT 2015	value: 3238
+Sample time range: Wed Mar 11 14:30:00 EDT 2015 - Wed Mar 11 14:45:00 EDT 2015, read every 300 seconds
+CPU usage as a percentage during the interval - Instance: timestamp: Wed Mar 11 14:30:00 EDT 2015	value: 130
+timestamp: Wed Mar 11 14:35:00 EDT 2015	value: 120
+timestamp: Wed Mar 11 14:40:00 EDT 2015	value: 166
+timestamp: Wed Mar 11 14:45:00 EDT 2015	value: 220
+Sample time range: Wed Mar 11 14:30:00 EDT 2015 - Wed Mar 11 14:45:00 EDT 2015, read every 300 seconds
+Memory usage as percentage of total configured or available memory - Instance: timestamp: Wed Mar 11 14:30:00 EDT 2015	value: 3161
+timestamp: Wed Mar 11 14:35:00 EDT 2015	value: 2929
+timestamp: Wed Mar 11 14:40:00 EDT 2015	value: 2831
+timestamp: Wed Mar 11 14:45:00 EDT 2015	value: 3238
+Sample time range: Wed Mar 11 14:30:00 EDT 2015 - Wed Mar 11 14:45:00 EDT 2015, read every 300 seconds
+CPU usage as a percentage during the interval - Instance: timestamp: Wed Mar 11 14:30:00 EDT 2015	value: 130
+timestamp: Wed Mar 11 14:35:00 EDT 2015	value: 120
+timestamp: Wed Mar 11 14:40:00 EDT 2015	value: 166
+timestamp: Wed Mar 11 14:45:00 EDT 2015	value: 220
+Sample time range: Wed Mar 11 14:30:00 EDT 2015 - Wed Mar 11 14:45:00 EDT 2015, read every 300 seconds
+Memory usage as percentage of total configured or available memory - Instance: timestamp: Wed Mar 11 14:30:00 EDT 2015	value: 3161
+timestamp: Wed Mar 11 14:35:00 EDT 2015	value: 2929
+timestamp: Wed Mar 11 14:40:00 EDT 2015	value: 2831
+timestamp: Wed Mar 11 14:45:00 EDT 2015	value: 3238
+Sample time range: Wed Mar 11 14:30:00 EDT 2015 - Wed Mar 11 14:45:00 EDT 2015, read every 300 seconds
+CPU usage as a percentage during the interval - Instance: timestamp: Wed Mar 11 14:30:00 EDT 2015	value: 130
+timestamp: Wed Mar 11 14:35:00 EDT 2015	value: 120
+timestamp: Wed Mar 11 14:40:00 EDT 2015	value: 166
+timestamp: Wed Mar 11 14:45:00 EDT 2015	value: 220
+Sample time range: Wed Mar 11 14:30:00 EDT 2015 - Wed Mar 11 14:45:00 EDT 2015, read every 300 seconds
+Memory usage as percentage of total configured or available memory - Instance: timestamp: Wed Mar 11 14:30:00 EDT 2015	value: 3161
+timestamp: Wed Mar 11 14:35:00 EDT 2015	value: 2929
+timestamp: Wed Mar 11 14:40:00 EDT 2015	value: 2831
+timestamp: Wed Mar 11 14:45:00 EDT 2015	value: 3238
+Sample time range: Wed Mar 11 14:30:00 EDT 2015 - Wed Mar 11 14:45:00 EDT 2015, read every 300 seconds
+CPU usage as a percentage during the interval - Instance: timestamp: Wed Mar 11 14:30:00 EDT 2015	value: 130
+timestamp: Wed Mar 11 14:35:00 EDT 2015	value: 120
+timestamp: Wed Mar 11 14:40:00 EDT 2015	value: 166
+timestamp: Wed Mar 11 14:45:00 EDT 2015	value: 220
+Sample time range: Wed Mar 11 14:30:00 EDT 2015 - Wed Mar 11 14:45:00 EDT 2015, read every 300 seconds
+Memory usage as percentage of total configured or available memory - Instance: timestamp: Wed Mar 11 14:30:00 EDT 2015	value: 3161
+timestamp: Wed Mar 11 14:35:00 EDT 2015	value: 2929
+timestamp: Wed Mar 11 14:40:00 EDT 2015	value: 2831
+timestamp: Wed Mar 11 14:45:00 EDT 2015	value: 3238
+Sample time range: Wed Mar 11 14:30:00 EDT 2015 - Wed Mar 11 14:45:00 EDT 2015, read every 300 seconds
+CPU usage as a percentage during the interval - Instance: timestamp: Wed Mar 11 14:30:00 EDT 2015	value: 130
+timestamp: Wed Mar 11 14:35:00 EDT 2015	value: 120
+timestamp: Wed Mar 11 14:40:00 EDT 2015	value: 166
+timestamp: Wed Mar 11 14:45:00 EDT 2015	value: 220
+Sample time range: Wed Mar 11 14:30:00 EDT 2015 - Wed Mar 11 14:45:00 EDT 2015, read every 300 seconds
+Memory usage as percentage of total configured or available memory - Instance: timestamp: Wed Mar 11 14:30:00 EDT 2015	value: 3161
+timestamp: Wed Mar 11 14:35:00 EDT 2015	value: 2929
+timestamp: Wed Mar 11 14:40:00 EDT 2015	value: 2831
+timestamp: Wed Mar 11 14:45:00 EDT 2015	value: 3238
+Sample time range: Wed Mar 11 14:30:00 EDT 2015 - Wed Mar 11 14:45:00 EDT 2015, read every 300 seconds
+CPU usage as a percentage during the interval - Instance: timestamp: Wed Mar 11 14:30:00 EDT 2015	value: 130
+timestamp: Wed Mar 11 14:35:00 EDT 2015	value: 120
+timestamp: Wed Mar 11 14:40:00 EDT 2015	value: 166
+timestamp: Wed Mar 11 14:45:00 EDT 2015	value: 220
+Sample time range: Wed Mar 11 14:30:00 EDT 2015 - Wed Mar 11 14:45:00 EDT 2015, read every 300 seconds
+Memory usage as percentage of total configured or available memory - Instance: timestamp: Wed Mar 11 14:30:00 EDT 2015	value: 3161
+timestamp: Wed Mar 11 14:35:00 EDT 2015	value: 2929
+timestamp: Wed Mar 11 14:40:00 EDT 2015	value: 2831
+timestamp: Wed Mar 11 14:45:00 EDT 2015	value: 3238
+Sample time range: Wed Mar 11 14:30:00 EDT 2015 - Wed Mar 11 14:45:00 EDT 2015, read every 300 seconds
+CPU usage as a percentage during the interval - Instance: timestamp: Wed Mar 11 14:30:00 EDT 2015	value: 130
+timestamp: Wed Mar 11 14:35:00 EDT 2015	value: 120
+timestamp: Wed Mar 11 14:40:00 EDT 2015	value: 166
+timestamp: Wed Mar 11 14:45:00 EDT 2015	value: 220
+Sample time range: Wed Mar 11 14:30:00 EDT 2015 - Wed Mar 11 14:45:00 EDT 2015, read every 300 seconds
+Memory usage as percentage of total configured or available memory - Instance: timestamp: Wed Mar 11 14:30:00 EDT 2015	value: 3161
+timestamp: Wed Mar 11 14:35:00 EDT 2015	value: 2929
+timestamp: Wed Mar 11 14:40:00 EDT 2015	value: 2831
+timestamp: Wed Mar 11 14:45:00 EDT 2015	value: 3238
+Sample time range: Wed Mar 11 14:30:00 EDT 2015 - Wed Mar 11 14:45:00 EDT 2015, read every 300 seconds
+CPU usage as a percentage during the interval - Instance: timestamp: Wed Mar 11 14:30:00 EDT 2015	value: 130
+timestamp: Wed Mar 11 14:35:00 EDT 2015	value: 120
+timestamp: Wed Mar 11 14:40:00 EDT 2015	value: 166
+timestamp: Wed Mar 11 14:45:00 EDT 2015	value: 220
+Sample time range: Wed Mar 11 14:30:00 EDT 2015 - Wed Mar 11 14:45:00 EDT 2015, read every 300 seconds
+Memory usage as percentage of total configured or available memory - Instance: timestamp: Wed Mar 11 14:30:00 EDT 2015	value: 3161
+timestamp: Wed Mar 11 14:35:00 EDT 2015	value: 2929
+timestamp: Wed Mar 11 14:40:00 EDT 2015	value: 2831
+timestamp: Wed Mar 11 14:45:00 EDT 2015	value: 3238
+Sample time range: Wed Mar 11 14:30:00 EDT 2015 - Wed Mar 11 14:45:00 EDT 2015, read every 300 seconds
+CPU usage as a percentage during the interval - Instance: timestamp: Wed Mar 11 14:30:00 EDT 2015	value: 130
+timestamp: Wed Mar 11 14:35:00 EDT 2015	value: 120
+timestamp: Wed Mar 11 14:40:00 EDT 2015	value: 166
+timestamp: Wed Mar 11 14:45:00 EDT 2015	value: 220
+Sample time range: Wed Mar 11 14:30:00 EDT 2015 - Wed Mar 11 14:45:00 EDT 2015, read every 300 seconds
+Memory usage as percentage of total configured or available memory - Instance: timestamp: Wed Mar 11 14:30:00 EDT 2015	value: 3161
+timestamp: Wed Mar 11 14:35:00 EDT 2015	value: 2929
+timestamp: Wed Mar 11 14:40:00 EDT 2015	value: 2831
+timestamp: Wed Mar 11 14:45:00 EDT 2015	value: 3238
+Sample time range: Wed Mar 11 14:30:00 EDT 2015 - Wed Mar 11 14:45:00 EDT 2015, read every 300 seconds
+CPU usage as a percentage during the interval - Instance: timestamp: Wed Mar 11 14:30:00 EDT 2015	value: 130
+timestamp: Wed Mar 11 14:35:00 EDT 2015	value: 120
+timestamp: Wed Mar 11 14:40:00 EDT 2015	value: 166
+timestamp: Wed Mar 11 14:45:00 EDT 2015	value: 220
+Sample time range: Wed Mar 11 14:30:00 EDT 2015 - Wed Mar 11 14:45:00 EDT 2015, read every 300 seconds
+Memory usage as percentage of total configured or available memory - Instance: timestamp: Wed Mar 11 14:30:00 EDT 2015	value: 3161
+timestamp: Wed Mar 11 14:35:00 EDT 2015	value: 2929
+timestamp: Wed Mar 11 14:40:00 EDT 2015	value: 2831
+timestamp: Wed Mar 11 14:45:00 EDT 2015	value: 3238
+Sample time range: Wed Mar 11 14:30:00 EDT 2015 - Wed Mar 11 14:45:00 EDT 2015, read every 300 seconds
+CPU usage as a percentage during the interval - Instance: timestamp: Wed Mar 11 14:30:00 EDT 2015	value: 130
+timestamp: Wed Mar 11 14:35:00 EDT 2015	value: 120
+timestamp: Wed Mar 11 14:40:00 EDT 2015	value: 166
+timestamp: Wed Mar 11 14:45:00 EDT 2015	value: 220
+Sample time range: Wed Mar 11 14:30:00 EDT 2015 - Wed Mar 11 14:45:00 EDT 2015, read every 300 seconds
+Memory usage as percentage of total configured or available memory - Instance: timestamp: Wed Mar 11 14:30:00 EDT 2015	value: 3161
+timestamp: Wed Mar 11 14:35:00 EDT 2015	value: 2929
+timestamp: Wed Mar 11 14:40:00 EDT 2015	value: 2831
+timestamp: Wed Mar 11 14:45:00 EDT 2015	value: 3238
+Sample time range: Wed Mar 11 14:30:00 EDT 2015 - Wed Mar 11 14:45:00 EDT 2015, read every 300 seconds
+CPU usage as a percentage during the interval - Instance: timestamp: Wed Mar 11 14:30:00 EDT 2015	value: 130
+timestamp: Wed Mar 11 14:35:00 EDT 2015	value: 120
+timestamp: Wed Mar 11 14:40:00 EDT 2015	value: 166
+timestamp: Wed Mar 11 14:45:00 EDT 2015	value: 220
+Sample time range: Wed Mar 11 14:30:00 EDT 2015 - Wed Mar 11 14:45:00 EDT 2015, read every 300 seconds
+Memory usage as percentage of total configured or available memory - Instance: timestamp: Wed Mar 11 14:30:00 EDT 2015	value: 3161
+timestamp: Wed Mar 11 14:35:00 EDT 2015	value: 2929
+timestamp: Wed Mar 11 14:40:00 EDT 2015	value: 2831
+timestamp: Wed Mar 11 14:45:00 EDT 2015	value: 3238
+Sample time range: Wed Mar 11 14:30:00 EDT 2015 - Wed Mar 11 14:45:00 EDT 2015, read every 300 seconds
+CPU usage as a percentage during the interval - Instance: timestamp: Wed Mar 11 14:30:00 EDT 2015	value: 130
+timestamp: Wed Mar 11 14:35:00 EDT 2015	value: 120
+timestamp: Wed Mar 11 14:40:00 EDT 2015	value: 166
+timestamp: Wed Mar 11 14:45:00 EDT 2015	value: 220
+Sample time range: Wed Mar 11 14:30:00 EDT 2015 - Wed Mar 11 14:45:00 EDT 2015, read every 300 seconds
+Memory usage as percentage of total configured or available memory - Instance: timestamp: Wed Mar 11 14:30:00 EDT 2015	value: 3161
+timestamp: Wed Mar 11 14:35:00 EDT 2015	value: 2929
+timestamp: Wed Mar 11 14:40:00 EDT 2015	value: 2831
+timestamp: Wed Mar 11 14:45:00 EDT 2015	value: 3238
+Sample time range: Wed Mar 11 14:30:00 EDT 2015 - Wed Mar 11 14:45:00 EDT 2015, read every 300 seconds
+CPU usage as a percentage during the interval - Instance: timestamp: Wed Mar 11 14:30:00 EDT 2015	value: 130
+timestamp: Wed Mar 11 14:35:00 EDT 2015	value: 120
+timestamp: Wed Mar 11 14:40:00 EDT 2015	value: 166
+timestamp: Wed Mar 11 14:45:00 EDT 2015	value: 220
+Sample time range: Wed Mar 11 14:30:00 EDT 2015 - Wed Mar 11 14:45:00 EDT 2015, read every 300 seconds
+Memory usage as percentage of total configured or available memory - Instance: timestamp: Wed Mar 11 14:30:00 EDT 2015	value: 3161
+timestamp: Wed Mar 11 14:35:00 EDT 2015	value: 2929
+timestamp: Wed Mar 11 14:40:00 EDT 2015	value: 2831
+timestamp: Wed Mar 11 14:45:00 EDT 2015	value: 3238

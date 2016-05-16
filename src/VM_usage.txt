@@ -1,0 +1,298 @@
+VM_usage.txt                                    asivak01@syr.edu
+----------------------------------------------------------------
+
+Sample time range: 2015-03-11T19:10:20Z - 2015-03-11T19:13:20Z
+Total CPU usage80 89 69 84 74 73 78 76 71 87 
+Total CPU usage80 89 69 84 74 73 78 76 71 87 
+Sample time range: 2015-03-11T19:10:20Z - 2015-03-11T19:13:20Z
+Memory usage as percentage of total configured or available memory499 699 699 699 599 599 599 399 399 499 
+Sample time range: 2015-03-11T19:10:40Z - 2015-03-11T19:13:40Z
+Total CPU usage89 69 84 74 73 78 76 71 87 77 
+Total CPU usage89 69 84 74 73 78 76 71 87 77 
+Sample time range: 2015-03-11T19:10:40Z - 2015-03-11T19:13:40Z
+Memory usage as percentage of total configured or available memory699 699 699 599 599 599 399 399 499 499 
+Sample time range: 2015-03-11T19:10:40Z - 2015-03-11T19:13:40Z
+Total CPU usage89 69 84 74 73 78 76 71 87 77 
+Total CPU usage89 69 84 74 73 78 76 71 87 77 
+Sample time range: 2015-03-11T19:10:40Z - 2015-03-11T19:13:40Z
+Memory usage as percentage of total configured or available memory699 699 699 599 599 599 399 399 499 499 
+Sample time range: 2015-03-11T19:11:00Z - 2015-03-11T19:14:00Z
+Total CPU usage69 84 74 73 78 76 71 87 77 69 
+Total CPU usage69 84 74 73 78 76 71 87 77 69 
+Sample time range: 2015-03-11T19:11:00Z - 2015-03-11T19:14:00Z
+Memory usage as percentage of total configured or available memory699 699 599 599 599 399 399 499 499 499 
+Sample time range: 2015-03-11T19:11:20Z - 2015-03-11T19:14:20Z
+Total CPU usage84 74 73 78 76 71 87 77 69 86 
+Total CPU usage84 74 73 78 76 71 87 77 69 86 
+Sample time range: 2015-03-11T19:11:20Z - 2015-03-11T19:14:20Z
+Memory usage as percentage of total configured or available memory699 599 599 599 399 399 499 499 499 499 
+Sample time range: 2015-03-11T19:11:40Z - 2015-03-11T19:14:40Z
+Total CPU usage74 73 78 76 71 87 77 69 86 76 
+Total CPU usage74 73 78 76 71 87 77 69 86 76 
+Sample time range: 2015-03-11T19:11:40Z - 2015-03-11T19:14:40Z
+Memory usage as percentage of total configured or available memory599 599 599 399 399 499 499 499 499 599 
+Sample time range: 2015-03-11T19:11:40Z - 2015-03-11T19:14:40Z
+Total CPU usage74 73 78 76 71 87 77 69 86 76 
+Total CPU usage74 73 78 76 71 87 77 69 86 76 
+Sample time range: 2015-03-11T19:11:40Z - 2015-03-11T19:14:40Z
+Memory usage as percentage of total configured or available memory599 599 599 399 399 499 499 499 499 599 
+Sample time range: 2015-03-11T19:12:00Z - 2015-03-11T19:15:00Z
+Total CPU usage73 78 76 71 87 77 69 86 76 73 
+Total CPU usage73 78 76 71 87 77 69 86 76 73 
+Sample time range: 2015-03-11T19:12:00Z - 2015-03-11T19:15:00Z
+Memory usage as percentage of total configured or available memory599 599 399 399 499 499 499 499 599 599 
+Sample time range: 2015-03-11T19:12:20Z - 2015-03-11T19:15:20Z
+Total CPU usage78 76 71 87 77 69 86 76 73 79 
+Total CPU usage78 76 71 87 77 69 86 76 73 79 
+Sample time range: 2015-03-11T19:12:20Z - 2015-03-11T19:15:20Z
+Memory usage as percentage of total configured or available memory599 399 399 499 499 499 499 599 599 599 
+Sample time range: 2015-03-11T19:12:40Z - 2015-03-11T19:15:40Z
+Total CPU usage76 71 87 77 69 86 76 73 79 79 
+Total CPU usage76 71 87 77 69 86 76 73 79 79 
+Sample time range: 2015-03-11T19:12:40Z - 2015-03-11T19:15:40Z
+Memory usage as percentage of total configured or available memory399 399 499 499 499 499 599 599 599 499 
+Sample time range: 2015-03-11T19:12:40Z - 2015-03-11T19:15:40Z
+Total CPU usage76 71 87 77 69 86 76 73 79 79 
+Total CPU usage76 71 87 77 69 86 76 73 79 79 
+Sample time range: 2015-03-11T19:12:40Z - 2015-03-11T19:15:40Z
+Memory usage as percentage of total configured or available memory399 399 499 499 499 499 599 599 599 499 
+Sample time range: 2015-03-11T19:13:00Z - 2015-03-11T19:16:00Z
+Total CPU usage71 87 77 69 86 76 73 79 79 67 
+Total CPU usage71 87 77 69 86 76 73 79 79 67 
+Sample time range: 2015-03-11T19:13:00Z - 2015-03-11T19:16:00Z
+Memory usage as percentage of total configured or available memory399 499 499 499 499 599 599 599 499 499 
+Sample time range: 2015-03-11T19:13:20Z - 2015-03-11T19:16:20Z
+Total CPU usage87 77 69 86 76 73 79 79 67 85 
+Total CPU usage87 77 69 86 76 73 79 79 67 85 
+Sample time range: 2015-03-11T19:13:20Z - 2015-03-11T19:16:20Z
+Memory usage as percentage of total configured or available memory499 499 499 499 599 599 599 499 499 799 
+Sample time range: 2015-03-11T19:13:40Z - 2015-03-11T19:16:40Z
+Total CPU usage77 69 86 76 73 79 79 67 85 76 
+Total CPU usage77 69 86 76 73 79 79 67 85 76 
+Sample time range: 2015-03-11T19:13:40Z - 2015-03-11T19:16:40Z
+Memory usage as percentage of total configured or available memory499 499 499 599 599 599 499 499 799 799 
+Sample time range: 2015-03-11T19:13:40Z - 2015-03-11T19:16:40Z
+Total CPU usage77 69 86 76 73 79 79 67 85 76 
+Total CPU usage77 69 86 76 73 79 79 67 85 76 
+Sample time range: 2015-03-11T19:13:40Z - 2015-03-11T19:16:40Z
+Memory usage as percentage of total configured or available memory499 499 499 599 599 599 499 499 799 799 
+Sample time range: 2015-03-11T19:14:00Z - 2015-03-11T19:17:00Z
+Total CPU usage69 86 76 73 79 79 67 85 76 65 
+Total CPU usage69 86 76 73 79 79 67 85 76 65 
+Sample time range: 2015-03-11T19:14:00Z - 2015-03-11T19:17:00Z
+Memory usage as percentage of total configured or available memory499 499 599 599 599 499 499 799 799 799 
+Sample time range: 2015-03-11T19:14:20Z - 2015-03-11T19:17:20Z
+Total CPU usage86 76 73 79 79 67 85 76 65 91 
+Total CPU usage86 76 73 79 79 67 85 76 65 91 
+Sample time range: 2015-03-11T19:14:20Z - 2015-03-11T19:17:20Z
+Memory usage as percentage of total configured or available memory499 599 599 599 499 499 799 799 799 799 
+Sample time range: 2015-03-11T19:14:40Z - 2015-03-11T19:17:40Z
+Total CPU usage76 73 79 79 67 85 76 65 91 74 
+Total CPU usage76 73 79 79 67 85 76 65 91 74 
+Sample time range: 2015-03-11T19:14:40Z - 2015-03-11T19:17:40Z
+Memory usage as percentage of total configured or available memory599 599 599 499 499 799 799 799 799 699 
+Sample time range: 2015-03-11T19:14:40Z - 2015-03-11T19:17:40Z
+Total CPU usage76 73 79 79 67 85 76 65 91 74 
+Total CPU usage76 73 79 79 67 85 76 65 91 74 
+Sample time range: 2015-03-11T19:14:40Z - 2015-03-11T19:17:40Z
+Memory usage as percentage of total configured or available memory599 599 599 499 499 799 799 799 799 699 
+Sample time range: 2015-03-11T19:15:00Z - 2015-03-11T19:18:00Z
+Total CPU usage73 79 79 67 85 76 65 91 74 69 
+Total CPU usage73 79 79 67 85 76 65 91 74 69 
+Sample time range: 2015-03-11T19:15:00Z - 2015-03-11T19:18:00Z
+Memory usage as percentage of total configured or available memory599 599 499 499 799 799 799 799 699 699 
+Sample time range: 2015-03-11T19:15:20Z - 2015-03-11T19:18:20Z
+Total CPU usage79 79 67 85 76 65 91 74 69 86 
+Total CPU usage79 79 67 85 76 65 91 74 69 86 
+Sample time range: 2015-03-11T19:15:20Z - 2015-03-11T19:18:20Z
+Memory usage as percentage of total configured or available memory599 499 499 799 799 799 799 699 699 699 
+Sample time range: 2015-03-11T19:15:40Z - 2015-03-11T19:18:40Z
+Total CPU usage79 67 85 76 65 91 74 69 86 76 
+Total CPU usage79 67 85 76 65 91 74 69 86 76 
+Sample time range: 2015-03-11T19:15:40Z - 2015-03-11T19:18:40Z
+Memory usage as percentage of total configured or available memory499 499 799 799 799 799 699 699 699 799 
+Sample time range: 2015-03-11T19:15:40Z - 2015-03-11T19:18:40Z
+Total CPU usage79 67 85 76 65 91 74 69 86 76 
+Total CPU usage79 67 85 76 65 91 74 69 86 76 
+Sample time range: 2015-03-11T19:15:40Z - 2015-03-11T19:18:40Z
+Memory usage as percentage of total configured or available memory499 499 799 799 799 799 699 699 699 799 
+Sample time range: 2015-03-11T19:16:00Z - 2015-03-11T19:19:00Z
+Total CPU usage67 85 76 65 91 74 69 86 76 70 
+Total CPU usage67 85 76 65 91 74 69 86 76 70 
+Sample time range: 2015-03-11T19:16:00Z - 2015-03-11T19:19:00Z
+Memory usage as percentage of total configured or available memory499 799 799 799 799 699 699 699 799 799 
+Sample time range: 2015-03-11T19:16:20Z - 2015-03-11T19:19:20Z
+Total CPU usage85 76 65 91 74 69 86 76 70 77 
+Total CPU usage85 76 65 91 74 69 86 76 70 77 
+Sample time range: 2015-03-11T19:16:20Z - 2015-03-11T19:19:20Z
+Memory usage as percentage of total configured or available memory799 799 799 799 699 699 699 799 799 799 
+Sample time range: 2015-03-11T19:16:40Z - 2015-03-11T19:19:40Z
+Total CPU usage76 65 91 74 69 86 76 70 77 70 
+Total CPU usage76 65 91 74 69 86 76 70 77 70 
+Sample time range: 2015-03-11T19:16:40Z - 2015-03-11T19:19:40Z
+Memory usage as percentage of total configured or available memory799 799 799 699 699 699 799 799 799 899 
+Sample time range: 2015-03-11T19:16:40Z - 2015-03-11T19:19:40Z
+Total CPU usage76 65 91 74 69 86 76 70 77 70 
+Total CPU usage76 65 91 74 69 86 76 70 77 70 
+Sample time range: 2015-03-11T19:16:40Z - 2015-03-11T19:19:40Z
+Memory usage as percentage of total configured or available memory799 799 799 699 699 699 799 799 799 899 
+Sample time range: 2015-03-11T19:17:00Z - 2015-03-11T19:20:00Z
+Total CPU usage65 91 74 69 86 76 70 77 70 68 
+Total CPU usage65 91 74 69 86 76 70 77 70 68 
+Sample time range: 2015-03-11T19:17:00Z - 2015-03-11T19:20:00Z
+Memory usage as percentage of total configured or available memory799 799 699 699 699 799 799 799 899 899 
+Sample time range: 2015-03-11T19:17:20Z - 2015-03-11T19:20:20Z
+Total CPU usage91 74 69 86 76 70 77 70 68 81 
+Total CPU usage91 74 69 86 76 70 77 70 68 81 
+Sample time range: 2015-03-11T19:17:20Z - 2015-03-11T19:20:20Z
+Memory usage as percentage of total configured or available memory799 699 699 699 799 799 799 899 899 899 
+Sample time range: 2015-03-11T19:17:40Z - 2015-03-11T19:20:40Z
+Total CPU usage74 69 86 76 70 77 70 68 81 77 
+Total CPU usage74 69 86 76 70 77 70 68 81 77 
+Sample time range: 2015-03-11T19:17:40Z - 2015-03-11T19:20:40Z
+Memory usage as percentage of total configured or available memory699 699 699 799 799 799 899 899 899 699 
+Sample time range: 2015-03-11T19:18:00Z - 2015-03-11T19:21:00Z
+Total CPU usage69 86 76 70 77 70 68 81 77 63 
+Total CPU usage69 86 76 70 77 70 68 81 77 63 
+Sample time range: 2015-03-11T19:18:00Z - 2015-03-11T19:21:00Z
+Memory usage as percentage of total configured or available memory699 699 799 799 799 899 899 899 699 699 
+Sample time range: 2015-03-11T19:18:00Z - 2015-03-11T19:21:00Z
+Total CPU usage69 86 76 70 77 70 68 81 77 63 
+Total CPU usage69 86 76 70 77 70 68 81 77 63 
+Sample time range: 2015-03-11T19:18:00Z - 2015-03-11T19:21:00Z
+Memory usage as percentage of total configured or available memory699 699 799 799 799 899 899 899 699 699 
+Sample time range: 2015-03-11T19:18:20Z - 2015-03-11T19:21:20Z
+Total CPU usage86 76 70 77 70 68 81 77 63 83 
+Total CPU usage86 76 70 77 70 68 81 77 63 83 
+Sample time range: 2015-03-11T19:18:20Z - 2015-03-11T19:21:20Z
+Memory usage as percentage of total configured or available memory699 799 799 799 899 899 899 699 699 699 
+Sample time range: 2015-03-11T19:18:40Z - 2015-03-11T19:21:40Z
+Total CPU usage76 70 77 70 68 81 77 63 83 73 
+Total CPU usage76 70 77 70 68 81 77 63 83 73 
+Sample time range: 2015-03-11T19:18:40Z - 2015-03-11T19:21:40Z
+Memory usage as percentage of total configured or available memory799 799 799 899 899 899 699 699 699 699 
+Sample time range: 2015-03-11T19:19:00Z - 2015-03-11T19:22:00Z
+Total CPU usage70 77 70 68 81 77 63 83 73 66 
+Total CPU usage70 77 70 68 81 77 63 83 73 66 
+Sample time range: 2015-03-11T19:19:00Z - 2015-03-11T19:22:00Z
+Memory usage as percentage of total configured or available memory799 799 899 899 899 699 699 699 699 699 
+Sample time range: 2015-03-11T19:19:00Z - 2015-03-11T19:22:00Z
+Total CPU usage70 77 70 68 81 77 63 83 73 66 
+Total CPU usage70 77 70 68 81 77 63 83 73 66 
+Sample time range: 2015-03-11T19:19:00Z - 2015-03-11T19:22:00Z
+Memory usage as percentage of total configured or available memory799 799 899 899 899 699 699 699 699 699 
+Sample time range: 2015-03-11T19:19:20Z - 2015-03-11T19:22:20Z
+Total CPU usage77 70 68 81 77 63 83 73 66 83 
+Total CPU usage77 70 68 81 77 63 83 73 66 83 
+Sample time range: 2015-03-11T19:19:20Z - 2015-03-11T19:22:20Z
+Memory usage as percentage of total configured or available memory799 899 899 899 699 699 699 699 699 699 
+Sample time range: 2015-03-11T19:19:40Z - 2015-03-11T19:22:40Z
+Total CPU usage70 68 81 77 63 83 73 66 83 66 
+Total CPU usage70 68 81 77 63 83 73 66 83 66 
+Sample time range: 2015-03-11T19:19:40Z - 2015-03-11T19:22:40Z
+Memory usage as percentage of total configured or available memory899 899 899 699 699 699 699 699 699 499 
+Sample time range: 2015-03-11T19:20:00Z - 2015-03-11T19:23:00Z
+Total CPU usage68 81 77 63 83 73 66 83 66 64 
+Total CPU usage68 81 77 63 83 73 66 83 66 64 
+Sample time range: 2015-03-11T19:20:00Z - 2015-03-11T19:23:00Z
+Memory usage as percentage of total configured or available memory899 899 699 699 699 699 699 699 499 499 
+Sample time range: 2015-03-11T19:20:00Z - 2015-03-11T19:23:00Z
+Total CPU usage68 81 77 63 83 73 66 83 66 64 
+Total CPU usage68 81 77 63 83 73 66 83 66 64 
+Sample time range: 2015-03-11T19:20:00Z - 2015-03-11T19:23:00Z
+Memory usage as percentage of total configured or available memory899 899 699 699 699 699 699 699 499 499 
+Sample time range: 2015-03-11T19:20:20Z - 2015-03-11T19:23:20Z
+Total CPU usage81 77 63 83 73 66 83 66 64 81 
+Total CPU usage81 77 63 83 73 66 83 66 64 81 
+Sample time range: 2015-03-11T19:20:20Z - 2015-03-11T19:23:20Z
+Memory usage as percentage of total configured or available memory899 699 699 699 699 699 699 499 499 499 
+Sample time range: 2015-03-11T19:20:40Z - 2015-03-11T19:23:40Z
+Total CPU usage77 63 83 73 66 83 66 64 81 73 
+Total CPU usage77 63 83 73 66 83 66 64 81 73 
+Sample time range: 2015-03-11T19:20:40Z - 2015-03-11T19:23:40Z
+Memory usage as percentage of total configured or available memory699 699 699 699 699 699 499 499 499 699 
+Sample time range: 2015-03-11T19:21:00Z - 2015-03-11T19:24:00Z
+Total CPU usage63 83 73 66 83 66 64 81 73 68 
+Total CPU usage63 83 73 66 83 66 64 81 73 68 
+Sample time range: 2015-03-11T19:21:00Z - 2015-03-11T19:24:00Z
+Memory usage as percentage of total configured or available memory699 699 699 699 699 499 499 499 699 699 
+Sample time range: 2015-03-11T19:21:00Z - 2015-03-11T19:24:00Z
+Total CPU usage63 83 73 66 83 66 64 81 73 68 
+Total CPU usage63 83 73 66 83 66 64 81 73 68 
+Sample time range: 2015-03-11T19:21:00Z - 2015-03-11T19:24:00Z
+Memory usage as percentage of total configured or available memory699 699 699 699 699 499 499 499 699 699 
+Sample time range: 2015-03-11T19:21:20Z - 2015-03-11T19:24:20Z
+Total CPU usage83 73 66 83 66 64 81 73 68 74 
+Total CPU usage83 73 66 83 66 64 81 73 68 74 
+Sample time range: 2015-03-11T19:21:20Z - 2015-03-11T19:24:20Z
+Memory usage as percentage of total configured or available memory699 699 699 699 499 499 499 699 699 699 
+Sample time range: 2015-03-11T19:21:40Z - 2015-03-11T19:24:40Z
+Total CPU usage73 66 83 66 64 81 73 68 74 74 
+Total CPU usage73 66 83 66 64 81 73 68 74 74 
+Sample time range: 2015-03-11T19:21:40Z - 2015-03-11T19:24:40Z
+Memory usage as percentage of total configured or available memory699 699 699 499 499 499 699 699 699 699 
+Sample time range: 2015-03-11T19:22:00Z - 2015-03-11T19:25:00Z
+Total CPU usage66 83 66 64 81 73 68 74 74 69 
+Total CPU usage66 83 66 64 81 73 68 74 74 69 
+Sample time range: 2015-03-11T19:22:00Z - 2015-03-11T19:25:00Z
+Memory usage as percentage of total configured or available memory699 699 499 499 499 699 699 699 699 799 
+Sample time range: 2015-03-11T19:22:00Z - 2015-03-11T19:25:00Z
+Total CPU usage66 83 66 64 81 73 68 74 74 69 
+Total CPU usage66 83 66 64 81 73 68 74 74 69 
+Sample time range: 2015-03-11T19:22:00Z - 2015-03-11T19:25:00Z
+Memory usage as percentage of total configured or available memory699 699 499 499 499 699 699 699 699 799 
+Sample time range: 2015-03-11T19:22:20Z - 2015-03-11T19:25:20Z
+Total CPU usage83 66 64 81 73 68 74 74 69 82 
+Total CPU usage83 66 64 81 73 68 74 74 69 82 
+Sample time range: 2015-03-11T19:22:20Z - 2015-03-11T19:25:20Z
+Memory usage as percentage of total configured or available memory699 499 499 499 699 699 699 699 799 999 
+Sample time range: 2015-03-11T19:22:40Z - 2015-03-11T19:25:40Z
+Total CPU usage66 64 81 73 68 74 74 69 82 71 
+Total CPU usage66 64 81 73 68 74 74 69 82 71 
+Sample time range: 2015-03-11T19:22:40Z - 2015-03-11T19:25:40Z
+Memory usage as percentage of total configured or available memory499 499 499 699 699 699 699 799 999 999 
+Sample time range: 2015-03-11T19:23:00Z - 2015-03-11T19:26:00Z
+Total CPU usage64 81 73 68 74 74 69 82 71 63 
+Total CPU usage64 81 73 68 74 74 69 82 71 63 
+Sample time range: 2015-03-11T19:23:00Z - 2015-03-11T19:26:00Z
+Memory usage as percentage of total configured or available memory499 499 699 699 699 699 799 999 999 999 
+Sample time range: 2015-03-11T19:23:00Z - 2015-03-11T19:26:00Z
+Total CPU usage64 81 73 68 74 74 69 82 71 63 
+Total CPU usage64 81 73 68 74 74 69 82 71 63 
+Sample time range: 2015-03-11T19:23:00Z - 2015-03-11T19:26:00Z
+Memory usage as percentage of total configured or available memory499 499 699 699 699 699 799 999 999 999 
+Sample time range: 2015-03-11T19:23:20Z - 2015-03-11T19:26:20Z
+Total CPU usage81 73 68 74 74 69 82 71 63 79 
+Total CPU usage81 73 68 74 74 69 82 71 63 79 
+Sample time range: 2015-03-11T19:23:20Z - 2015-03-11T19:26:20Z
+Memory usage as percentage of total configured or available memory499 699 699 699 699 799 999 999 999 999 
+Sample time range: 2015-03-11T19:23:40Z - 2015-03-11T19:26:40Z
+Total CPU usage73 68 74 74 69 82 71 63 79 76 
+Total CPU usage73 68 74 74 69 82 71 63 79 76 
+Sample time range: 2015-03-11T19:23:40Z - 2015-03-11T19:26:40Z
+Memory usage as percentage of total configured or available memory699 699 699 699 799 999 999 999 999 499 
+Sample time range: 2015-03-11T19:24:00Z - 2015-03-11T19:27:00Z
+Total CPU usage68 74 74 69 82 71 63 79 76 69 
+Total CPU usage68 74 74 69 82 71 63 79 76 69 
+Sample time range: 2015-03-11T19:24:00Z - 2015-03-11T19:27:00Z
+Memory usage as percentage of total configured or available memory699 699 699 799 999 999 999 999 499 499 
+Sample time range: 2015-03-11T19:24:00Z - 2015-03-11T19:27:00Z
+Total CPU usage68 74 74 69 82 71 63 79 76 69 
+Total CPU usage68 74 74 69 82 71 63 79 76 69 
+Sample time range: 2015-03-11T19:24:00Z - 2015-03-11T19:27:00Z
+Memory usage as percentage of total configured or available memory699 699 699 799 999 999 999 999 499 499 
+Sample time range: 2015-03-11T19:24:20Z - 2015-03-11T19:27:20Z
+Total CPU usage74 74 69 82 71 63 79 76 69 83 
+Total CPU usage74 74 69 82 71 63 79 76 69 83 
+Sample time range: 2015-03-11T19:24:20Z - 2015-03-11T19:27:20Z
+Memory usage as percentage of total configured or available memory699 699 799 999 999 999 999 499 499 599 
+Sample time range: 2015-03-11T19:24:40Z - 2015-03-11T19:27:40Z
+Total CPU usage74 69 82 71 63 79 76 69 83 77 
+Total CPU usage74 69 82 71 63 79 76 69 83 77 
+Sample time range: 2015-03-11T19:24:40Z - 2015-03-11T19:27:40Z
+Memory usage as percentage of total configured or available memory699 799 999 999 999 999 499 499 599 799 
+Sample time range: 2015-03-11T19:25:00Z - 2015-03-11T19:28:00Z
+Total CPU usage69 82 71 63 79 76 69 83 77 63 
+Total CPU usage69 82 71 63 79 76 69 83 77 63 
+Sample time range: 2015-03-11T19:25:00Z - 2015-03-11T19:28:00Z
+Memory usage as percentage of total configured or available memory799 999 999 999 999 499 499 599 799 799 
